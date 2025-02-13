@@ -8,4 +8,4 @@ Esplorati concetti fondamentali della Data Science e dei Big Data, inclusi:
 - La manipolazione dei dati con Pandas e NumPy
 - L'analisi statistica
 - La costruzione di modelli predittivi come la **Regressione Lineare**, la **Regressione Logistica**, e l'algoritmo **Nearest Neighbor**
-- Applicato tecniche di **Machine Learning** e **Clustering** per gestire e analizzare dataset complessi
+- Applicate tecniche di **Machine Learning** e **Clustering** per gestire e analizzare dataset complessi
